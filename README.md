@@ -1,6 +1,6 @@
 # backendschool
 
-This is a simple (demo) web site for a (non real) school, where students can create account, login and see their grades and their avarage grade.
+This is a simple (demo) web site for a (non real) school, where students can create account, login, see their grades and their avarage grade.
 Teachers can create account, login and add a grade to a student.
 
 In order to run the web site  locally from you comuter, using xampp:
